@@ -1,0 +1,60 @@
+MANISH CHAVAN
++91 9763376596 | manishchavan3203@gmail.com | LinkedIn | GitHub | Pune, India
+Summary
+Flutter Developer with 2+ years of experience building and delivering production-grade cross-platform mobile applica-
+tions for Android and iOS using Flutter and Dart. Proficient in REST API integration, Firebase, and state management
+using GetX and BLoC. Strong foundation in mobile application architecture, performance optimization, and Android
+& iOS application deployment. Skilled at translating business requirements into scalable, maintainable solutions while
+collaborating effectively in agile, cross-functional teams.
+Professional Experience
+Solviane CodeCraft Pvt. Ltd, Pune Oct 2025 – Present
+Associate Software Engineer
+•Developedandmaintainedcross-platformmobileapplicationsusingFlutterandDart, convertingbusinessrequirements
+into scalable, user-friendly features.
+•Built responsive UI screens and a reusable widget library, reducing duplicate UI code and accelerating new feature
+delivery.
+•Integrated RESTful APIs and optimized application state management, improving data consistency and reducing UI
+re-render overhead.
+•Improved app performance and stability across Android and iOS by profiling and resolving rendering and memory
+bottlenecks.
+OIT Technology Pvt. Ltd, Pune May 2024 – Sep 2025
+Flutter Developer
+•Designed and developed cross-platform mobile applications using Flutter and Dart, translating business and technical
+requirements into scalable solutions.
+•Built reusable UI components and responsive interfaces, improving development velocity across multiple application
+modules.
+•Implemented JSON parsing, push notifications (FCM), and local storage, enhancing offline usability and user engage-
+ment.
+Projects
+Enterprise Mobility PlatformFlutter, REST API, WebSocket, Firebase FCM, Google ML Kit
+•Developed production-grade Flutter applications with dynamic UI architecture, REST API integration, real-time
+WebSocket communication, and Firebase Cloud Messaging (FCM).
+•Implemented background location tracking, offline data synchronization, secure data management, and Google ML
+Kit for document scanning and automated data extraction.
+•Delivered scalable, secure, and high-performance enterprise CRM applications for Android and iOS by developing
+reusable components and collaborating with cross-functional teams.
+Job, Course & Scholarship PortalFlutter, Strapi API, PostgreSQL, Razorpay SDK
+•Developed a multi-functional platform comprising five interconnected Flutter applications for job search, course dis-
+covery, scholarship management, and user profile management.
+•Integrated Strapi REST APIs, PostgreSQL, and Razorpay SDK to enable secure backend communication, scalable
+data management, and payment processing.
+•Delivered responsive, production-ready Android and iOS applications with secure payment integration and a consistent
+user experience.
+Transport Management ApplicationFlutter, BLoC, Google Maps, REST API
+•Developed and maintained a transport management solution comprising separate Driver and Employee applications
+designed to streamline employee transportation and vehicle tracking operations.
+•Implemented real-time GPS tracking using Google Maps and location services, enabling employees to monitor assigned
+vehicles, view driver details, and manage transportation routes.
+•Integrated REST APIs for seamless data synchronization and utilized BLoC state management to build scalable,
+maintainable, and high-performance mobile applications with an intuitive user experience.
+Technical Skills
+•Languages:Dart, Java
+•Frameworks:Flutter
+•State Management:GetX, BLoC
+•Backend & APIs:REST APIs, Firebase (FCM, Firestore)
+•Databases:SQLite, Hive
+•Tools:Git, Android Studio, VS Code
+Education
+B.E. – Information Technology, Zeal College Of Engineering & Research, Pune 2024 (CGPA: 8.31)
+HSC, R. C. Kale Arts, Science & Commerce College, Chiplun 2020 (63.54%)
+SSC, United English School, Chiplun 2018 (74.80%)
