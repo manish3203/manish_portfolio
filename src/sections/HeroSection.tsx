@@ -14,7 +14,7 @@ const socials = [
 
 const stats = [
   { value: "2+", label: "Years Experience", icon: "👨‍💻" },
-  { value: "15+", label: "Projects Done", icon: "📋" },
+  { value: "5+", label: "Projects Done", icon: "📋" },
   { value: "100%", label: "Satisfaction", icon: "🎯" },
   { value: "24/7", label: "Support", icon: "⏰" },
 ];

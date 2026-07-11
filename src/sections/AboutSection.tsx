@@ -7,10 +7,10 @@ const milestones = [
 ];
 
 const achievements = [
-  { icon: "🚀", value: "15+", label: "Projects Completed" },
+  { icon: "🚀", value: "5+", label: "Projects Completed" },
   { icon: "📱", value: "2+", label: "Years Experience" },
   { icon: "⭐", value: "100%", label: "Client Satisfaction" },
-  { icon: "🔥", value: "10+", label: "Technologies" },
+  { icon: "🔥", value: "4+", label: "Technologies" },
 ];
 
 export default function AboutSection() {

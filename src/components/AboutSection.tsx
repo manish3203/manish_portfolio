@@ -42,7 +42,7 @@ export default function AboutSection() {
       >
         {[
           { value: "2+", label: "Years Experience" },
-          { value: "15+", label: "Projects Completed" },
+          { value: "5+", label: "Projects Completed" },
           { value: "8+", label: "Happy Clients" },
           { value: "100%", label: "Dedication" },
         ].map((s, i) => (
