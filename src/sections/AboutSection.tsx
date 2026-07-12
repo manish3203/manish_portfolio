@@ -1,5 +1,7 @@
 "use client";
 
+import Image from "next/image";
+
 const milestones = [
   { year: "2022", icon: "🎓", title: "Started Flutter Journey", desc: "Began learning Flutter and Dart, building foundational cross-platform projects." },
   { year: "2023", icon: "💼", title: "First Professional Role", desc: "Joined as a Flutter Developer, building production mobile apps with clean architecture." },
@@ -78,6 +80,7 @@ export default function AboutSection() {
             height: "200px",
             borderRadius: "50%",
             background: "linear-gradient(135deg, #7C3AED, #3B82F6, #06B6D4)",
+            padding: "4px",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
@@ -86,7 +89,9 @@ export default function AboutSection() {
             position: "relative",
           }}
         >
-          <span style={{ fontSize: "64px", fontWeight: 900, color: "white" }}>MC</span>
+          <div style={{ position: "relative", width: "100%", height: "100%", borderRadius: "50%", overflow: "hidden" }}>
+            <Image src="/manish_chavan_profile.jpeg" alt="Manish Chavan" fill style={{ objectFit: "cover", objectPosition: "top" }} />
+          </div>
           <div
             style={{
               position: "absolute",
