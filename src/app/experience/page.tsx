@@ -8,9 +8,21 @@ import ScrollProgress from "@/components/ScrollProgress";
 
 const experiences = [
   {
+    role: "Associate Software Developer",
+    company: "AlgoOcean Technologies Pvt Ltd",
+    date: "Sep 2026 - Present",
+    responsibilities: [
+      "Developing and maintaining cross-platform mobile applications using Flutter and Dart",
+      "Building responsive screens and reusable widgets from business and design requirements",
+      "Integrating REST APIs, Firebase services, and local storage for reliable app functionality",
+      "Supporting small Java changes when needed while focusing primarily on Flutter development",
+    ],
+    tech: ["Flutter", "Dart", "REST API", "Firebase", "Java"],
+  },
+  {
     role: "Associate Software Engineer",
     company: "Solviane CodeCraft Pvt. Ltd.",
-    date: "Oct 2025 – Present",
+    date: "Oct 2025 - Sep 2026",
     responsibilities: [
       "Developing and maintaining enterprise-grade Flutter applications for cross-platform deployment",
       "Collaborating with backend teams to design and integrate RESTful APIs and WebSocket services",

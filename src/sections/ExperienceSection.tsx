@@ -4,9 +4,20 @@ import { FaBriefcase } from "react-icons/fa";
 
 const experiences = [
   {
+    title: "Associate Software Developer",
+    company: "AlgoOcean Technologies Pvt Ltd, Mumbai",
+    date: "Sep 2026 - Present",
+    desc: [
+      "Developing and maintaining cross-platform mobile applications using Flutter and Dart, with a focus on reliable, user-friendly features.",
+      "Building responsive screens and reusable widgets from business and design requirements.",
+      "Integrating REST APIs, Firebase services, and local storage for dependable application functionality.",
+      "Supporting small Java changes when needed while focusing primarily on Flutter development.",
+    ],
+  },
+  {
     title: "Associate Software Engineer",
     company: "Solviane CodeCraft Pvt. Ltd, Pune",
-    date: "Oct 2025 – Present",
+    date: "Oct 2025 - Sep 2026",
     desc: [
       "Developed and maintained cross-platform mobile applications using Flutter and Dart, converting business requirements into scalable, user-friendly features.",
       "Built responsive UI screens and a reusable widget library, reducing duplicate UI code and accelerating new feature delivery.",

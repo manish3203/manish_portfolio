@@ -3,10 +3,21 @@
 import { motion } from "framer-motion";
 
 const experiences = [
+   {
+    role: "Associate Software Developer",
+    company: "AlgoOcean Technologies Pvt Ltd",
+    date: "Sep 2026 - Present",
+    description: [
+      "Developed and maintained cross-platform Flutter applications with clean and scalable code.",
+      "Implemented dynamic screens and reusable components based on business requirements.",
+      "Integrated REST APIs, Firebase services, and local storage to support reliable application functionality.",
+      "Handled small Java changes when required while focusing primarily on Flutter development."
+    ]
+  },
   {
     role: "Associate Software Engineer",
     company: "Solviane CodeCraft Pvt. Ltd.",
-    date: "Oct 2025 – Present",
+    date: "Oct 2025 - Sep 2026",
     description: [
       "Developed and maintained cross-platform mobile applications using Flutter and Dart.",
       "Built responsive UI screens and a reusable widget library, reducing duplicate UI code.",

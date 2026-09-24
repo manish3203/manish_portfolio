@@ -2,10 +2,22 @@
 
 const experiences = [
   {
+    role: "Associate Software Developer",
+    company: "AlgoOcean Technologies Pvt Ltd",
+    period: "Sep 2026 - Present",
+    current: true,
+    points: [
+      "Developing and maintaining cross-platform mobile applications using Flutter and Dart.",
+      "Building responsive screens and reusable widgets from business and design requirements.",
+      "Integrating REST APIs, Firebase services, and local storage for reliable app functionality.",
+      "Supporting small Java changes when needed while focusing primarily on Flutter development.",
+    ],
+  },
+  {
     role: "Associate Software Engineer",
     company: "Solviane CodeCraft Pvt. Ltd.",
-    period: "Oct 2025 – Present",
-    current: true,
+    period: "Oct 2025 - Sep 2026",
+    current: false,
     points: [
       "Developing cross-platform mobile applications using Flutter.",
       "Implementing state management with GetX and BLoC patterns.",
